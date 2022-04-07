@@ -13,7 +13,7 @@ def read(fname):
 
 setup(
     name='pytest-typhoon-config',
-    version='0.9.0',
+    version='0.9.1',
     author='Branko Milosavljevic',
     author_email='branko@typhoon-hil.com',
     maintainer='Branko Milosavljevic',
