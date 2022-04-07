@@ -18,7 +18,7 @@ choose them at runtime.
 You can install `pytest-typhoon-config` via `pip`:
 
 ```
-$ pip install pytest-typhoon-config
+pip install pytest-typhoon-config
 ```
 
 ## Usage
@@ -60,7 +60,7 @@ having different values, and then choose which module to use when invoking
 pytest. For example:
 
 ```
-$ pytest --runconfig=myparams.py
+pytest --runconfig=myparams.py
 ```
 
 The path of this file is evaluated at runtime.
