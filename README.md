@@ -1,7 +1,7 @@
 # pytest-typhoon-config
 A pytest plugin that facilitates test parameter configuration at runtime
 
-[![typhoon-hil](https://circleci.com/gh/typhoon-hil/pytest-typhoon-config.svg?style=svg)](https://circleci.com/gh/typhoon-hil/pytest-typhoon-config)
+[![typhoon-hil](https://circleci.com/gh/typhoon-hil/pytest-typhoon-config.svg?style=shield)](https://circleci.com/gh/typhoon-hil/pytest-typhoon-config)
 
 ## Features
 
